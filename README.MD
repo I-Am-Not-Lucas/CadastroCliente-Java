@@ -1,3 +1,7 @@
-Projeto do curso de Back-end de Eng. de software.
+# Projeto do curso de Back-end de Eng. de software
+Criação de um aplicativo web de cadastro de clientes, com ligação com banco de dados
 
-O springboot foi utilizado para criar uma aplicação para cadastro de clientes
+# Outras tecnologias usadas:
+- Springboot
+- Jquery
+- Bootstrap
